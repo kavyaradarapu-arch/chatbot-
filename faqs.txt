@@ -1,0 +1,15 @@
+What is Python?|Python is a high-level programming language.
+
+What is AI?|Artificial Intelligence is the simulation of human intelligence by machines.
+
+What is Machine Learning?|Machine Learning is a subset of AI that learns from data.
+
+What is Data Science?|Data Science involves extracting insights from data.
+
+What is NLP?|Natural Language Processing enables computers to understand human language.
+
+What is Deep Learning?|Deep Learning uses neural networks with multiple layers.
+
+What is a chatbot?|A chatbot is a software application that can converse with users.
+
+What is GitHub?|GitHub is a platform for hosting and managing code repositories.
